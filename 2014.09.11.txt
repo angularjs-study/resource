@@ -1,3 +1,6 @@
 
 1.  setting github
 2.  study angularjs
+3.  配置好了开发环境
+4.  学习用的例子
+      https://github.com/angular-cn/ng-showcase
